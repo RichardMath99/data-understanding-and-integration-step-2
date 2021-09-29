@@ -1,0 +1,57 @@
+tipo,tempo,localizacao,area_total,area_util,quartos,suite,banheiros,vagas,academia,churrasqueira,elevador,salao_festa,piscina,iptu,condominio,preco
+1,,"Rua Sílvia, 879 - Olímpico, São Caetano do Sul - SP",70,,2,1,2,2,0,1,1,0,1,600,515,395000
+2,,"Rua Espírito Santo, 598 - Santo Antônio, São Caetano do Sul - SP",117,,3,1,3,1,0,0,1,0,0,1200,780,470000
+2,,"Rua Marina Jacomini, 60 - Santa Paula, São Caetano do Sul - SP",110,,3,1,3,1,0,0,1,0,0,1400,917,600000
+2,,"Rua Nazaret, 1445 - Barcelona, São Caetano do Sul - SP",155,,3,1,2,2,1,1,1,1,0,1500,650,620000
+2,,"Alameda São Caetano, 1345 - Santa Maria, São Caetano do Sul - SP",104,,3,1,2,1,0,0,1,0,0,700,678,480000
+2,,"Rua Conselheiro Lafayette, 450 - Santa Paula, São Caetano do Sul - SP",150,,3,3,5,2,1,1,2,1,1,1200,1120,1100000
+1,,"Alameda João Galego, 961 - Santa Maria, São Caetano do Sul - SP",220,,3,3,5,5,0,0,0,0,0,1900,0,1100000
+2,,"Rua São Jorge, 630, Santo Antônio, São Caetano do Sul",179,,4,4,5,4,1,1,2,1,1,2600,1500,1890000
+1,,"Rua Padre Mororó, 85 - São José, São Caetano do Sul - SP",210,,3,1,2,1,0,0,0,0,0,1500,0,470000
+1,,"Rua Espírito Santo - Ceramica, São Caetano do Sul - SP",356,,3,3,6,7,0,0,0,0,0,2500,0,1690000
+1,,"Rua Aparecida, 200 - Boa Vista, São Caetano do Sul - SP",220,,3,1,4,2,0,0,0,0,0,1200,0,1140000
+1,,"Rua Carmem Miranda - Boa Vista, São Caetano do Sul - SP",112,,3,1,2,3,0,0,0,0,0,1500,0,479000
+1,,"Rua Giovani Perucchi - Osvaldo Cruz, São Caetano do Sul - SP",350,,3,1,4,4,0,0,0,0,0,400,0,1650000
+1,,"Rua Bertolino da Cunha - Osvaldo Cruz, São Caetano do Sul - SP",155,,3,1,2,2,0,1,0,0,1,750,0,430000
+1,,"Rua Rio Grande do Sul - Centro, São Caetano do Sul - SP",155,,2,0,2,4,0,0,0,0,0,1100,0,690000
+1,,"Rua Henrica Grigoletto Rizzo, 1 - Olímpico, São Caetano do Sul - SP",319,,3,1,3,4,0,0,0,0,0,3800,0,1070000
+1,,"Alameda Conde de Porto Alegre - Santa Maria, São Caetano do Sul - SP",152,,3,0,2,1,0,0,0,0,0,1560,0,640000
+1,,"Rua Teffé - Santa Maria, São Caetano do Sul - SP",185,,3,2,3,4,0,1,0,0,0,2750,0,1620000
+1,,"Rua Matilde - Jardim São Caetano, São Caetano do Sul - SP",376,,4,1,4,2,0,1,0,0,0,313,0,950000
+2,,"Rua Samuel Schwarts - Santa Maria, São Caetano do Sul - SP",91,,3,1,1,2,1,0,1,1,1,82,823,620000
+1,,"Rua Pelegrino Bernardo - Olímpico, São Caetano do Sul - SP",140,,1,0,1,1,0,0,0,0,0,800,0,460000
+1,,"Rua Martim Afonso de Souza - Jardim São Caetano, São Caetano do Sul - SP",347,,4,3,6,0,0,0,0,0,0,1700,0,1750000
+1,,"Rua Victor Meirelles - Jardim São Caetano, São Caetano do Sul - SP",400,,1,4,7,8,1,0,0,0,0,480,0,2000000
+1,,"Rua Anchieta, 240 - Jardim São Caetano, São Caetano do Sul - SP",540,,4,4,6,4,0,1,0,0,1,4500,0,3500000
+1,,"Rua Ribeirão Preto, 150 - Olímpico, São Caetano do Sul - SP",517,,6,3,4,10,0,1,0,0,1,300,0,2150000
+1,,"Rua dos Diamantes, 209 - Prosperidade, São Caetano do Sul - SP",330,,3,1,4,4,0,1,0,0,0,2940,0,780000
+1,,"Rua Major Aderbal de Oliveira - Centro, São Caetano do Sul - SP",114,,2,0,2,2,0,0,0,0,0,450,0,350000
+1,,"Rua Ribeirão Pires - Maua, São Caetano do Sul - SP",178,,2,1,1,2,0,1,0,0,0,800,0,552000
+1,,"Rua Amazonas - Centro, São Caetano do Sul - SP",252,,2,0,2,4,0,0,0,0,0,1200,0,900000
+1,,"Rua Luís Fiorotti, 410 - Olímpico, São Caetano do Sul - SP",154,,3,0,2,2,0,0,0,0,0,2037,0,715000
+1,,"Rua Padre Antônio Vieira, 0 - Jardim São Caetano, São Caetano do Sul - SP",450,,4,4,2,4,0,1,0,0,1,1800,0,1800000
+1,,"Rua Luís Fiorotti - Olímpico, São Caetano do Sul - SP",210,,2,0,2,2,0,0,0,0,0,1300,0,630000
+1,,"Rua Raimundo Maffei - Maua, São Caetano do Sul - SP",152,,4,0,2,3,0,0,0,0,0,120,0,634000
+1,,"Rua Matilde - Jardim São Caetano, São Caetano do Sul - SP",306,,3,3,6,7,0,1,0,0,1,1500,0,1650000
+1,,"Rua Antônio Benedetti Sobrinho - Boa Vista, São Caetano do Sul - SP",125,,2,2,3,2,0,0,0,0,1,86,0,562000
+1,,"Rua Saldanha da Gama - Nova Gerti, São Caetano do Sul - SP",69,,2,0,1,1,0,0,0,0,0,500,0,390000
+1,,"Rua Ângela - Nova Gerti, São Caetano do Sul - SP",193,,3,1,3,5,0,0,0,1,0,210,0,1200000
+1,,"Rua Osvaldo Cruz - Santa Paula, São Caetano do Sul - SP",64,,2,0,1,1,0,0,0,0,0,1000,0,349000
+1,,"Rua Nazaret - Barcelona, São Caetano do Sul - SP",250,,2,0,1,2,0,0,0,0,0,1300,0,640000
+1,,"Rua Saldanha da Gama - Nova Gerti, São Caetano do Sul - SP",125,,3,1,3,2,0,0,0,0,0,1800,0,650000
+1,,"Rua Roma - Osvaldo Cruz, São Caetano do Sul - SP",217,,1,0,1,1,0,0,0,0,0,1450,0,650000
+1,,"Rua Francisco Alves - Boa Vista, São Caetano do Sul - SP",174,,3,3,5,4,0,1,0,0,0,173,0,1006000
+1,,"Rua Duvílio José Quaglia - São José, São Caetano do Sul - SP",138,,3,1,2,2,0,0,0,0,0,1000,0,660000
+2,,"Rua Alegre, 935 - Santa Paula, São Caetano do Sul - SP",100,,3,1,2,2,1,1,1,1,1,850,600,485000
+1,,"Avenida Presidente Kennedy - Santa Paula, São Caetano do Sul - SP",204,,3,1,2,2,0,1,0,0,0,300,0,850000
+1,,"Santa Paula, São Caetano do Sul - SP",255,,3,1,3,3,0,0,0,0,0,284,0,1300000
+1,,"Jardim São Caetano, São Caetano do Sul - SP",224,,3,3,5,6,0,1,0,0,0,170,0,1380000
+1,,"Rua Santos Dumont - Boa Vista, São Caetano do Sul - SP",270,,3,1,4,4,0,0,0,0,0,208,0,1195000
+1,,"Rua Antônio Galo - Barcelona, São Caetano do Sul - SP",302,,2,0,2,5,0,0,0,0,0,550,0,2800000
+1,,"Rua Ribeirão Pires - Maua, São Caetano do Sul - SP",104,,1,0,2,0,0,0,0,0,0,99,0,550000
+1,,"Rua Flórida - Barcelona, São Caetano do Sul - SP",200,,3,1,2,4,0,0,0,0,0,350,0,750000
+1,,"Rua Senador Vergueiro - Centro, São Caetano do Sul - SP",233,,2,0,1,6,0,0,0,0,0,177,0,540000
+1,,"Rua Luís Fiorotti - Olímpico, São Caetano do Sul - SP",490,,5,0,8,6,0,1,0,1,0,333,0,2200000
+1,,"Rua Marina - Santa Maria, São Caetano do Sul - SP",98,,2,0,1,2,0,0,0,0,0,185,0,550000
+2,,"Santa Paula, São Caetano do Sul - SP",178,,4,4,4,3,0,0,1,0,1,2600,1500,958000
+2,,"Rua Justino Paixão - Jardim São Caetano, São Caetano do Sul - SP",87,,3,1,3,2,0,1,1,0,1,900,480,830000
